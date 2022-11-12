@@ -1,5 +1,5 @@
 {
-    "name": "cig/invoicegenrater",
+    "name": "ig/invoicegenrater",
     "description": "A invoicegenrater packages for laravel",
     "autoload": {
         "psr-4": {
